@@ -6,6 +6,8 @@ A simple weather application built using HTML, CSS, and JavaScript.
 
 This application allows users to enter a city and country to get the current weather conditions for that location. The project uses a weather API to retrieve and display live weather data based on the user's input.
 
+[Use Weather Tool](https://kelvinimalenowa.github.io/weather-api/)
+
 ## Screenshot
 
 ![Project Screenshot](assets/mockup.png)
